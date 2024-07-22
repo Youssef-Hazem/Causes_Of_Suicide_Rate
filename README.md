@@ -3,16 +3,6 @@
 ## Overview
 This project explores the relationship between economic factors, employment rates, and suicide rates across different countries from 2018 to 2021. The study aims to understand how these variables interact and influence mental health outcomes.
 
-## Key Details
-- **Institution**: Egypt University of Informatics
-- **Course**: Data Analysis
-- **Team Members**:
-  - Youssef Ahmed
-  - Youssef Hazem
-  - Yahia Sonbol
-  - Steven Nagy
-  - Mariam Aboughazala
-
 ## Research Focus
 - **Research Questions**:
   1. Is there a relationship between GDP and suicide rates?
