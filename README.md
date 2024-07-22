@@ -1,10 +1,17 @@
 # Economic and Employment Factors Affecting Suicide Rates (2018-2021)
-```
-# Economic and Employment Factors Affecting Suicide Rates (2018-2021)
 
 ## Overview
 This project explores the relationship between economic factors, employment rates, and suicide rates across different countries from 2018 to 2021. The study aims to understand how these variables interact and influence mental health outcomes.
 
+## Key Details
+- **Institution**: Egypt University of Informatics
+- **Course**: Data Analysis
+- **Team Members**:
+  - Youssef Ahmed
+  - Youssef Hazem
+  - Yahia Sonbol
+  - Steven Nagy
+  - Mariam Aboughazala
 
 ## Research Focus
 - **Research Questions**:
@@ -28,7 +35,7 @@ Economic factors alone do not fully explain variations in suicide rates. Compreh
 - Selection bias due to incomplete representation of countries
 - Variability in how countries report data
 - Influence of confounding variables not controlled in the analysis
-
+  
 ## Our team:
   - [@YoussefHazem](https://github.com/Youssef-Hazem)
   - [@YahiaSonbol](https://github.com/YahiaSonbol)
